@@ -1,0 +1,7 @@
+{
+  "name": "Fotosgam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
